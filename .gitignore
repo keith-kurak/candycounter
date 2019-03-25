@@ -1,0 +1,8 @@
+node_modules/**/*
+ios/pods/**/*
+.expo/*
+npm-debug.*
+/current-brand/*
+nudge-config.json
+app.json
+package-lock.json
